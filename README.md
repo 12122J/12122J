@@ -1,36 +1,39 @@
 ### hey, I'm Javi 👋
 
-I build full-stack products end to end — architecture, backend, frontend, infra, AI layer, the lot.
-
----
-
-**Right now** I'm running a multi-tenant e-commerce platform I built from scratch. 10 live storefronts across AT, DE, BE, IT, BG, HU, HR, SG, CA and JP. One codebase, 8 currencies, 17 languages. Adding a new market is a single click — it auto-provisions the DB, languages, pricing, shipping, DNS, and edge worker.
-
-The AI layer has a full operator control panel: an agentic assistant (Claude + GPT-4o, switchable per request) that creates pages, writes blog posts, edits SEO metadata, and translates content across all 17 languages via tool use. Built a SaaS dashboard on top with per-tenant quota enforcement, real-time cost tracking, agent personality config, and full usage audit logs.
-
-Also replaced 3 SaaS tools with in-house systems: a full IMAP/SMTP email client, 7 automated email flow types (including abandoned cart), and a privacy-first analytics engine with real-time visitors, conversion funnels, UTM attribution, and product performance — no GA, no consent banners, no cookie banners.
-
-**Stack:** PostgreSQL · FastAPI · Next.js 14 · Cloudflare Workers · OpenNext · Stripe · R2 · Tailwind · GSAP · Anthropic · OpenAI
+Full-stack. I build products end to end and tend to replace SaaS tools with things I wrote myself. Portfolio at [fjgbu.org](https://fjgbu.org).
 
 ---
 
 **Open source**
 
-- [tokentrace](https://github.com/12122J/tokentrace) — automatic session recording for coding agents (Claude Code + Codex). Every session saves transcript, cost, git diff locally, no setup needed. Comes with a local dashboard and MCP server so you can query your sessions from inside Claude Code.
+- [tokentrace](https://github.com/12122J/tokentrace) — automatic session recording for Claude Code and Codex. Every session captures the full transcript, token cost, and git diff locally with no setup. Ships with a local dashboard and an MCP server so you can ask questions about your sessions from inside Claude Code. `npm install -g @j___avi/tokentrace && tt install` and you're done.
 
 - [tokenwise](https://github.com/12122J/tokenwise) — unified AI workflows for teams
 
-- [repo-publication-auditor](https://github.com/12122J/repo-publication-auditor) — scans a private repo for secrets, leaked infra, and missing OSS metadata before you make it public. Native macOS app + CLI.
+- [repo-publication-auditor](https://github.com/12122J/repo-publication-auditor) — scans a private repo for secrets, leaked infra config, and missing OSS metadata before you make it public. Native macOS app with a CLI too.
 
 ---
 
-**Also building**
+**Private work**
 
-A native macOS IDE in Swift, a Swift task tracker app, and (with [Rinos](https://rinos.io)) CMS and ERP systems built for EU compliance requirements.
+A lot of what I build stays private but here's what I'm working on:
+
+- **Multi-tenant e-commerce platform** — 10 live storefronts (AT, DE, BE, IT, BG, HU, HR, SG, CA, JP), one codebase, 8 currencies, 17 languages. Adding a new market is a single click. Has its own agentic AI layer (Claude + GPT-4o), privacy-first analytics engine, in-house email client with automated flows, and a visual page builder. Full stack: PostgreSQL, FastAPI, Next.js 14, Cloudflare Workers, Stripe.
+
+- **macOS IDE** — native Swift IDE for agentic coding workflows
+
+- **Daydreaming** — Swift task tracker for macOS
+
+- **GPMS** — project management system
+
+- **Open Mail / Encrypted Mail** — full IMAP/SMTP email client, built to own my own email stack
+
+- **CMS + ERP** — building compliance-focused CMS and ERP systems with [Rinos](https://rinos.io) for European markets
 
 ---
 
 **Find me**
 
+- [fjgbu.org](https://fjgbu.org)
 - npm: [@j___avi](https://www.npmjs.com/~j___avi)
 - email: javiergomezbu@gmail.com
