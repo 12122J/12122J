@@ -1,16 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=120&section=header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Javi+%F0%9F%91%8B;full-stack+dev+%C2%B7+Berlin;I+ship+things+that+run+in+prod" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A0C4FF&width=500&lines=hey%2C+I'm+Javi+%F0%9F%91%8B;full-stack+dev+%C2%B7+Berlin;ships+things+that+run+in+prod" alt="Typing SVG" />
 
 *self-taught · full-stack · owns the full loop*
-
-<br/>
-
-</div>
 
 ---
 
@@ -44,25 +34,9 @@ I use AI heavily. I haven't forgotten what logs are.
 
 **📊 GitHub Stats**
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=12122J&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12122J&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=12122J&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
-
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=12122J&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=a0c4ff&text_color=8b949e&icon_color=a0c4ff&ring_color=a0c4ff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12122J&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=a0c4ff&text_color=8b949e" />
 
 ---
 
-<div align="center">
-
 📍 Berlin &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/francisco-javier-gomez-701337224) &nbsp;·&nbsp; [github.com/12122J](https://github.com/12122J)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" />
-
-</div>
