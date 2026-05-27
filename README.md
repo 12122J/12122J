@@ -27,7 +27,7 @@ I also spend a lot of time experimenting with AI. Some of it becomes product fea
 
 I like practical software. Clear database models, simple deployments, readable code, useful dashboards, and systems that keep working after the first demo.
 
-I use AI heavily, but I still care about the fundamentals: logs, tests, security, deployment, performance, and understanding what the code is actually doing.
+I use AI heavily, but lets not forget the fundamentals: logs, tests, security, deployment, performance, and understanding what the code is actually doing.
 
 ## Stack
 
