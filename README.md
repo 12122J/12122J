@@ -1,23 +1,68 @@
-# hey, I'm Javi
+<div align="center">
 
-I'm a self-taught full-stack developer based in Berlin. I like building things that are useful in the real world: ecommerce systems, internal tools, APIs, dashboards, automation, and AI-assisted workflows that save people time.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=120&section=header" />
 
-Right now I am building and maintaining a multi-country ecommerce platform for Rinosbike. It runs across 10 country storefronts, 8 currencies, 17 languages, Stripe payments, Cloudflare Workers, FastAPI, PostgreSQL, and Next.js. It is real production work with real users, real orders, and all the little edge cases that come with that.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Javi+%F0%9F%91%8B;full-stack+dev+%C2%B7+Berlin;I+ship+things+that+run+in+prod" alt="Typing SVG" />
 
-I care a lot about owning the full loop: understanding the problem, designing the system, shipping it, watching it behave in production, and improving it without making things harder for the next person.
+<br/>
 
-I also spend a lot of time experimenting with AI. Some of it becomes product features, some of it becomes internal automation, and some of it becomes small tools that help me move faster day to day.
+*self-taught · full-stack · owns the full loop*
 
-I like practical software. Clear database models, simple deployments, readable code, useful dashboards, and systems that keep working after the first demo.
+<br/>
 
-I use AI heavily, but lets not forget the fundamentals: logs, tests, security, deployment, performance, and understanding what the code is actually doing.
+</div>
 
-## Stack
+---
 
-PostgreSQL, FastAPI, Next.js, Cloudflare Workers, OpenNext, Stripe, Tailwind, GSAP, Docker, Node.js, Swift, Linux, Anthropic, OpenAI.
+I build systems that handle real edge cases, not demo ones.
 
-## Contact
+Right now I'm running **[Rinosbike](https://rinosbike.com)** — ecommerce across **10 storefronts**, **8 currencies**, **17 languages**. Real users, real orders, all the fun stuff that happens when money is involved.
 
-- GitHub: [@12122J](https://github.com/12122J)
-- LinkedIn: [Francisco Javier Gomez](https://www.linkedin.com/in/francisco-javier-gomez-701337224)
-- Location: Berlin
+I care about owning the whole loop: understanding the problem → designing the system → shipping it → watching it behave in prod → making it less annoying for the next person.
+
+I use AI heavily. I haven't forgotten what logs are.
+
+---
+
+**⚡ Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+**📊 GitHub Stats**
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=12122J&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12122J&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=12122J&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
+
+</div>
+
+---
+
+<div align="center">
+
+📍 Berlin &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/francisco-javier-gomez-701337224) &nbsp;·&nbsp; [github.com/12122J](https://github.com/12122J)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=80&section=footer" />
+
+</div>
