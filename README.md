@@ -8,23 +8,6 @@ I care a lot about owning the full loop: understanding the problem, designing th
 
 I also spend a lot of time experimenting with AI. Some of it becomes product features, some of it becomes internal automation, and some of it becomes small tools that help me move faster day to day.
 
-## What I Am Building
-
-- Multi-country ecommerce infrastructure for Rinosbike
-- Privacy-first analytics and internal operator dashboards
-- AI tools that help with content, SEO, translations, and product workflows
-- Local-first developer tools for coding agents and open-source workflows
-- A privacy-first encrypted mail project called gbMail
-- Self-hosted automation through OpenClaw on Telegram
-
-## Projects I Am Polishing
-
-- [tokenwise](https://github.com/12122J/tokenwise), a workflow layer for team AI agents
-- [tokentrace](https://github.com/12122J/tokentrace), local session recording and cost tracking for coding agents
-- [repo-publication-auditor](https://github.com/12122J/repo-publication-auditor), a macOS app and CLI for checking repos before making them public
-
-## How I Work
-
 I like practical software. Clear database models, simple deployments, readable code, useful dashboards, and systems that keep working after the first demo.
 
 I use AI heavily, but lets not forget the fundamentals: logs, tests, security, deployment, performance, and understanding what the code is actually doing.
