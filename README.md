@@ -4,9 +4,7 @@
 
 ---
 
-I build systems that handle real edge cases, not demo ones.
-
-Right now I'm running **[Rinosbike](https://rinosbike.com)** — ecommerce across **10 storefronts**, **8 currencies**, **17 languages**. Real users, real orders, all the fun stuff that happens when money is involved.
+I build systems that handle real edge cases.
 
 I care about owning the whole loop: understanding the problem → designing the system → shipping it → watching it behave in prod → making it less annoying for the next person.
 
