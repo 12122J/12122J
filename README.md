@@ -32,11 +32,5 @@ I use AI heavily. I haven't forgotten what logs are.
 
 ---
 
-**📊 GitHub Stats**
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=12122J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12122J&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
----
 
 📍 Berlin &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/francisco-javier-gomez-701337224) &nbsp;·&nbsp; [github.com/12122J](https://github.com/12122J)
