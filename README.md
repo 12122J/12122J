@@ -4,8 +4,6 @@
 
 ---
 
-I build systems that handle real edge cases.
-
 I care about owning the whole loop: understanding the problem → designing the system → shipping it → watching it behave in prod → making it less annoying for the next person.
 
 I use AI heavily. I haven't forgotten what logs are.
