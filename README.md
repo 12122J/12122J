@@ -1,12 +1,18 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A0C4FF&width=500&lines=hey%2C+I'm+Javi+%F0%9F%91%8B;full-stack+dev+%C2%B7+Berlin;ships+things+that+run+in+prod" alt="Typing SVG" />
+<img width="889" height="500" alt="220122" src="https://github.com/user-attachments/assets/1f81bfdf-4f4a-45bd-a1ee-cd4db254946e" />
 
-*self-taught · full-stack · owns the full loop*
+
+
+
+
+
+
+
+
+
 
 ---
 
-I care about owning the whole loop: understanding the problem → designing the system → shipping it → watching it behave in prod → making it less annoying for the next person.
-
-I use AI heavily. I haven't forgotten what logs are.
+understanding the problem → designing the system → shipping it → watching it → making it less annoying for the next person.
 
 ---
 
