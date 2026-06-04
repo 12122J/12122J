@@ -35,4 +35,4 @@ understanding the problem → designing the system → shipping it → watching 
 ---
 
 
-📍 Berlin &nbsp;·&nbsp; [Portfolio](https://fjgbu.org) &middot; [LinkedIn](https://www.linkedin.com/in/francisco-javier-gomez-701337224) &nbsp;·&nbsp; [github.com/12122J](https://github.com/12122J)
+📍 Berlin &nbsp;·&nbsp; [Portfolio](https://fjgbu.org) &middot; [LinkedIn](https://www.linkedin.com/in/fjgbu) &nbsp;·&nbsp; [github.com/12122J](https://github.com/12122J)
